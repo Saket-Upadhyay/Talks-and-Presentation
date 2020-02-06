@@ -11,9 +11,9 @@
  
 	 b. **1.Features** [Feature Extraction and Storage]
  
- 	c. **2. Train-Test Models** [ML Scanning Engine]
+ 	c. **2. Train-Test Models** [ML Scanning Script]
  
- 		Contains Logistic Regression Model Pre-Trained to play with different EXE files.
+ 		Contains Logistic Regression Model Pre-Trained with 10000 Windows executable to play with different EXE files.
  
  	d. **3. AI_EVASION** [PoC for ML Detection Evasion]
  
