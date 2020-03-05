@@ -1,5 +1,5 @@
 # PennStateTalk
-#### Resources for talk at Penn State World Campus Tech Club [5th Feb. 2020 EST]
+#### Resources for talk at Penn State World Campus Tech Club [5th Feb. 2020 EST] [https://youtu.be/1FqDsTxrIdg]
 ##  Topic : Malware Hunting with Machine Learning
 *WARNING : DEMO SECTION CONTAINS ACTUAL MALWARE RENAMED AS ".EX_", this is to avoid accidental execution of malicious code in your windows PC.*
 
