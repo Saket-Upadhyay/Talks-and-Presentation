@@ -7,18 +7,18 @@
 1. **SLIDE [Contains Presentation PDF]**
 2. **DEMO -**
 
- 	a. **0.SIG,HIS Evasion** [Code Signature Manipulation and Obfuscation]
+ 	- **0.SIG,HIS Evasion** [Code Signature Manipulation and Obfuscation]
  
-	 b. **1.Features** [Feature Extraction and Storage]
+	 - **1.Features** [Feature Extraction and Storage]
  
- 	c. **2. Train-Test Models** [ML Scanning Script]
+ 	- **2. Train-Test Models** [ML Scanning Script]
  
  		Contains Logistic Regression Model Pre-Trained with 10000 Windows executable to play with different EXE files.
  
- 	d. **3. AI_EVASION** [PoC for ML Detection Evasion]
+ 	- **3. AI_EVASION** [PoC for ML Detection Evasion]
  
- 	e. 'knn class.gif' [visualisation for KNN]
+ 	- 'knn class.gif' [visualisation for KNN]
  
- 	f. 'svm kernel.gif' [visualisation for SVM]
+ 	- 'svm kernel.gif' [visualisation for SVM]
 
 
