@@ -1,4 +1,4 @@
-# Talks and Presentation
+# Talks and Presentations
 
 Collection of resources from my discussions over time  [^\_^]
 
