@@ -4,7 +4,7 @@ Collection of resources from my discussions over time  [^\_^]
 
 
 - [**2021**](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021)
-    - [DSC : Introduction to Cybersecurity](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2020/PennStateTechClub_(PSWCTC))
+    - [DSC : Introduction to Cybersecurity](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021/Introduction_to_Cybersecurity_(DSC))
       - [x] Slide
       - [ ] Code
       - [x] Recording (YouTube)
