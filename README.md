@@ -1,6 +1,6 @@
 # Talks and Presentations
 
-Collection of resources from my discussions over time  [^\_^]
+Collection of resources from my public talks and presentations over time  [^\_^]
 
 > Feel free to use the assets for your talks/presentation, just give credits where it is due and mention it in references. For more details see [LICENSE](https://github.com/Saket-Upadhyay/Talks_and_Presentation/blob/master/LICENSE)
 
