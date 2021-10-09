@@ -7,7 +7,7 @@ Collection of resources from my public talks and presentations over time  [^\_^]
 
 
 - **Oct. 2021**
-    - [How to learn from Hackathons ]()
+    - [How to learn from Hackathons ](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021/How%20to%20learn%20from%20hackathons)
       - ✔️ Slides
       - :x: Code
       - :x: Recording (YouTube)
