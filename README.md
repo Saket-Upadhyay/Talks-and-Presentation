@@ -6,21 +6,21 @@ Collection of resources from my public talks and presentations over time  [^\_^]
 
 - **Sep. 2021**
     - [Modified Firefly Optimisation inspired Intrusion Detection Systems](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021/FireFly%20Based%20IDS%20for%20NICS%20Research%20Presentation%20(CyVIT'21))
-      - [x] Slides
-      - [x] Code
-      - [x] Recording (YouTube)
+      - ✔️ Slides
+      - ✔️ Code
+      - ✔️ Recording (YouTube)
 
 - **Mar. 2021**
     - [DSC : Introduction to Cybersecurity](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021/Introduction_to_Cybersecurity_(DSC))
-      - [x] Slides
-      - [ ] Code
-      - [x] Recording (YouTube)
+      - ✔️ Slides
+      - :x: Code
+      - ✔️ Recording (YouTube)
 
 - **Feb. 2020**
     - [PennState Talk : Malware Hunting with Machine Learning](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2020/PennStateTechClub_(PSWCTC))
-      - [x] Slides
-      - [x] Code
-      - [x] Recording (YouTube)
+      - ✔️ Slides
+      - ✔️ Code
+      - ✔️ Recording (YouTube)
 
 
 
