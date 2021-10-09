@@ -4,6 +4,15 @@ Collection of resources from my public talks and presentations over time  [^\_^]
 
 > Feel free to use the assets for your talks/presentation, just give credits where it is due and mention it in references. For more details see [LICENSE](https://github.com/Saket-Upadhyay/Talks_and_Presentation/blob/master/LICENSE)
 
+
+
+- **Oct. 2021**
+    - [How to learn from Hackathons ]()
+      - ✔️ Slides
+      - :x: Code
+      - :x: Recording (YouTube)
+
+
 - **Sep. 2021**
     - [Modified Firefly Optimisation inspired Intrusion Detection Systems](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021/FireFly%20Based%20IDS%20for%20NICS%20Research%20Presentation%20(CyVIT'21))
       - ✔️ Slides
