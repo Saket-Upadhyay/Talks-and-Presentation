@@ -2,8 +2,7 @@
 
 Collection of resources from my public talks and presentations over time  [^\_^]
 
-> Feel free to use the assets for your talks/presentation, just give credits where it is due and mention it in references. For more details see [LICENSE](https://github.com/Saket-Upadhyay/Talks_and_Presentation/blob/master/LICENSE)
-
+> Feel free to use the assets for your talks/presentation, just give credits where it is due and mention it in references. For more details see [CODE LICENSE](https://github.com/Saket-Upadhyay/Talks_and_Presentation/blob/master/LICENSE) for code and [MEDIA LICENSE]() for presentations and graphics.
 
 
 - **Oct. 2021**
@@ -30,7 +29,3 @@ Collection of resources from my public talks and presentations over time  [^\_^]
       - ✔️ Slides
       - ✔️ Code
       - ✔️ Recording (YouTube)
-
-
-
-
