@@ -6,9 +6,9 @@ Collection of resources from my public talks and presentations.
 
 - **Dec. 2021**
     - [Automating malware process scanning with Python3](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021/PyCode2021)
-      - :x: Slides (TBD)
-      - :x: Code (TBD)
-      - :x: Recording (YouTube)
+      - ✔️ Slides
+      - ✔️ Code
+      - :x: Recording (TBD)
 
 
 - **Oct. 2021**
