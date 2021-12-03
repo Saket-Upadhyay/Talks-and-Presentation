@@ -5,7 +5,7 @@ Collection of resources from my public talks and presentations.
 > Feel free to use the assets for your talks/presentations, just give credits where it is due and mention it in the references if applicable. For more details kindly see [CODE LICENSE](https://github.com/Saket-Upadhyay/Talks_and_Presentation/blob/master/CODE%20LICENSE.md) and [MEDIA LICENSE](https://github.com/Saket-Upadhyay/Talks_and_Presentation/blob/master/MEDIA%20LICENSE.md) for the "opensource code" and "presentations and graphics" respectively.
 
 - **Dec. 2021**
-    - [Automating malware process scanning with Python3](https://github.com/Saket-Upadhyay/Talks_and_Presentation/tree/master/2021/PyCode2021)
+    - [Automating malware process scanning with Python3](https://github.com/Saket-Upadhyay/Talks-and-Presentation/tree/main/2021/PyCode%20Conference%202021)
       - ✔️ Slides
       - ✔️ Code
       - :x: Recording (TBD)
