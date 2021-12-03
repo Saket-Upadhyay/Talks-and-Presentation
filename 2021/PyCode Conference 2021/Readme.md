@@ -8,4 +8,4 @@ Resources for talk from PyCode Conference 2021 (21:00 2nd December, 2021 IST)
 
 > The presentation is signed by my private key; use [https://saketupadhyay.codes/pubkey.html](https://saketupadhyay.codes/pubkey.html) to check `Automating malware process scanning with Python3.pdf.sig`.
 
-![](https://github.com/Saket-Upadhyay/Talks-and-Presentation/blob/main/2021/PyCode2021/Automating%20malware%20process%20scanning%20with%20Python3%20Splash.png)
+![](https://github.com/Saket-Upadhyay/Talks-and-Presentation/blob/main/2021/PyCode%20Conference%202021/Banner/Automating%20malware%20process%20scanning%20with%20Python3%20Splash.png)
